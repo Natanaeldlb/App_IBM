@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="entrar">Login</string>
+    <string name="text_cads">Crie uma conta clicando aqui</string>
+    <string name="tela_cadastro">Cadastre-se</string>
+    <string name="btn_cadastro">Cadastrar</string>
+</resources>
